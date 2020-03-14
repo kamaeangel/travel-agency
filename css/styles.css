@@ -14,3 +14,17 @@ ul {
     color: #7dc410;
     font-family: fantasy;
 }
+.intro {
+    font-style: italic;
+}
+.opener {
+    color: maroon;
+    font-size: 18px;
+}
+p.opener {
+    font-size: 16px;
+    color: maroon;
+}
+li.available options {
+    font-color: blue;
+}
